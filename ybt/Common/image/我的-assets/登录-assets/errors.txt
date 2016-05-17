@@ -1,3 +1,0 @@
-[Wed Apr 06 2016 09:07:53 GMT+0800 (中国标准时间)] Layer "my_nor@2x.png": Duplicate file name: my_nor@2x.png
-[Wed Apr 06 2016 09:07:53 GMT+0800 (中国标准时间)] Layer "suo@2x.png": Duplicate file name: suo@2x.png
-[Wed Apr 06 2016 09:07:53 GMT+0800 (中国标准时间)] Layer "fanhui@2x.png": Duplicate file name: fanhui@2x.png
